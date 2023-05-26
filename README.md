@@ -13,7 +13,7 @@ link for the dataset - https://www.kaggle.com/datasets/paultimothymooney/chest-x
 # Objective
 The objective of this project is to develop and implement a deep-learning model for the diagnosis of pneumonia through chest X-rays. The model will be trained on a large dataset of chest X-rays to accurately detect and classify the presence of pneumonia in the images. The model will be designed to improve the accuracy and speed of pneumonia diagnosis, particularly in cases where traditional diagnostic methods may be less effective. The project aims to provide a user-friendly interface for healthcare professionals to interact with the deep learning model and access its diagnostic outputs. The model will provide an accurate and reliable diagnosis of pneumonia through chest X-rays, enabling healthcare professionals to make informed decisions about treatment options for patients. Overall, the objective of this project is to develop and implement a deep learning-based diagnostic tool for pneumonia that is accurate, fast, and easy to use. The tool will help to improve the diagnosis and treatment of pneumonia, potentially reducing the burden on healthcare systems and improving patient outcomes.
 
-#Algorithms Used
+# Algorithms Used
 1.	VGG16 
 2.	ResNet50
 3.	InceptionV3
